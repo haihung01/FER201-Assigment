@@ -29,7 +29,7 @@ class Contact extends Component {
     this.props.postFeedback(values);
     this.props.resetFeedbackForm();
   }
-
+  
   render() {
     return (
       <div className="container">
