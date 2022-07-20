@@ -71,7 +71,7 @@ class Contact extends Component {
           </div>
           <div className="col-12 col-sm-11 offset-sm-1">
             <div className="btn-group" role="group">
-              <a
+              <a    
                 role="button"
                 className="btn btn-primary"
                 href="tel:+85212345678"
@@ -88,7 +88,7 @@ class Contact extends Component {
               >
                 <i className="fa fa-envelope-o"></i> Email
               </a>
-            </div>  
+            </div>   
           </div> 
         </div>
         <div className="row row-content">
