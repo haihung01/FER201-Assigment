@@ -88,7 +88,7 @@ class Contact extends Component {
               >
                 <i className="fa fa-envelope-o"></i> Email
               </a>
-            </div>
+            </div>  
           </div> 
         </div>
         <div className="row row-content">
