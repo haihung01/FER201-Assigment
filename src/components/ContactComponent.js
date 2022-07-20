@@ -82,7 +82,7 @@ class Contact extends Component {
                 <i className="fa fa-skype"></i> Skype
               </a>
               <a
-                role="button"
+                role="button"    
                 className="btn btn-success"
                 href="mailto:confusion@food.net"
               >
