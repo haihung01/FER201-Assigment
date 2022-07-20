@@ -28,7 +28,7 @@ class Contact extends Component {
     console.log("Submitting feedback: " + JSON.stringify(values));
     this.props.postFeedback(values);
     this.props.resetFeedbackForm();
-  }     
+  } 
                             
   render() {
     return (
