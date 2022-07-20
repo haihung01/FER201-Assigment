@@ -75,7 +75,7 @@ class Contact extends Component {
                 role="button"
                 className="btn btn-primary"
                 href="tel:+85212345678"
-              >  
+              >   
                 <i className="fa fa-phone"></i> Call
               </a>
               <a role="button" className="btn btn-info" href="/">
