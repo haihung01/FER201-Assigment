@@ -80,7 +80,7 @@ class Contact extends Component {
               </a>
               <a role="button" className="btn btn-info" href="/">
                 <i className="fa fa-skype"></i> Skype
-              </a>      
+              </a>        
               <a           
                 role="button"    
                 className="btn btn-success"
